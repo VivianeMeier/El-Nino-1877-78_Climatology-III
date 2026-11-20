@@ -8,4 +8,6 @@
 ## When
 ## What it contains 
 (what you find in what folder) 
+## AI
+write what we used AI for (and which AI)
 ## Contacts 
